@@ -1,5 +1,9 @@
+import { FooterContainer } from "./Footer.styles"
+
 export function Footer() {
   return (
-    <h1>Footer</h1>
+    <FooterContainer>
+      <h1>Footer</h1>
+    </FooterContainer>
   )
 }
